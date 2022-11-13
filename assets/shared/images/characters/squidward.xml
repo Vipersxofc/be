@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Squidward.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Squidward Down0000" x="0" y="0" width="446" height="580" frameX="0" frameY="-42" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0001" x="451" y="0" width="446" height="579" frameX="0" frameY="-42" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0002" x="902" y="0" width="393" height="622" frameX="-34" frameY="0" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0003" x="1300" y="0" width="393" height="621" frameX="-34" frameY="0" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0004" x="1698" y="0" width="418" height="612" frameX="-21" frameY="-10" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0005" x="2121" y="0" width="417" height="611" frameX="-22" frameY="-10" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0006" x="2543" y="0" width="426" height="605" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0007" x="2974" y="0" width="426" height="604" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0008" x="2974" y="0" width="426" height="604" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0009" x="2543" y="0" width="426" height="605" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0010" x="2543" y="0" width="426" height="605" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0011" x="2974" y="0" width="426" height="604" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0012" x="2974" y="0" width="426" height="604" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Down0013" x="2543" y="0" width="426" height="605" frameX="-17" frameY="-17" frameWidth="446" frameHeight="622"/>
+	<SubTexture name="Squidward Idle Dance0000" x="3405" y="0" width="319" height="676" frameX="0" frameY="-49" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0001" x="3729" y="0" width="319" height="676" frameX="-1" frameY="-49" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0002" x="0" y="681" width="308" height="685" frameX="-7" frameY="-40" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0003" x="313" y="681" width="307" height="685" frameX="-8" frameY="-40" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0004" x="625" y="681" width="286" height="715" frameX="-18" frameY="-10" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0005" x="916" y="681" width="286" height="715" frameX="-19" frameY="-10" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0006" x="1207" y="681" width="286" height="722" frameX="-18" frameY="-3" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0007" x="1498" y="681" width="286" height="722" frameX="-19" frameY="-3" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0008" x="1789" y="681" width="286" height="725" frameX="-18" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0009" x="2080" y="681" width="286" height="725" frameX="-19" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0010" x="2080" y="681" width="286" height="725" frameX="-19" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0011" x="2371" y="681" width="286" height="725" frameX="-18" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0012" x="1789" y="681" width="286" height="725" frameX="-18" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Idle Dance0013" x="2080" y="681" width="286" height="725" frameX="-19" frameY="0" frameWidth="320" frameHeight="725"/>
+	<SubTexture name="Squidward Left0000" x="2662" y="681" width="404" height="727" frameX="0" frameY="0" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0001" x="2662" y="681" width="404" height="727" frameX="0" frameY="0" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0002" x="3071" y="681" width="394" height="700" frameX="-16" frameY="-27" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0003" x="3071" y="681" width="394" height="700" frameX="-16" frameY="-27" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0004" x="3470" y="681" width="378" height="708" frameX="-34" frameY="-19" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0005" x="3470" y="681" width="378" height="708" frameX="-34" frameY="-19" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0006" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0007" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0008" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0009" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0010" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0011" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0012" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Left0013" x="0" y="1413" width="373" height="705" frameX="-40" frameY="-22" frameWidth="413" frameHeight="727"/>
+	<SubTexture name="Squidward Right0000" x="378" y="1413" width="384" height="714" frameX="-4" frameY="-7" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0001" x="378" y="1413" width="384" height="714" frameX="-4" frameY="-7" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0002" x="767" y="1413" width="351" height="716" frameX="0" frameY="-5" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0003" x="767" y="1413" width="351" height="716" frameX="0" frameY="-5" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0004" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0005" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0006" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0007" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0008" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0009" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0010" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0011" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0012" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Right0013" x="1123" y="1413" width="354" height="721" frameX="-2" frameY="0" frameWidth="388" frameHeight="721"/>
+	<SubTexture name="Squidward Up0000" x="1482" y="1413" width="385" height="827" frameX="0" frameY="0" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0001" x="1482" y="1413" width="385" height="827" frameX="0" frameY="0" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0002" x="1872" y="1413" width="377" height="764" frameX="-30" frameY="-62" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0003" x="1872" y="1413" width="377" height="764" frameX="-30" frameY="-62" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0004" x="2254" y="1413" width="374" height="786" frameX="-26" frameY="-41" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0005" x="2254" y="1413" width="374" height="786" frameX="-26" frameY="-41" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0006" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0007" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0008" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0009" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0010" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0011" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0012" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+	<SubTexture name="Squidward Up0013" x="2633" y="1413" width="372" height="784" frameX="-29" frameY="-43" frameWidth="407" frameHeight="827"/>
+</TextureAtlas>
