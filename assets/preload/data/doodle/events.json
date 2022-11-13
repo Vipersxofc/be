@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics (No HUD)",
+						"3",
+						"90"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Cinematics (No HUD)",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"1",
+						"110"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"3",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}
