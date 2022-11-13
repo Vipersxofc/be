@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				289
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Squidward Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				289
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squidward Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Squidward Down"
+		},
+		{
+			"offsets": [
+				-76,
+				371
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Squidward Up"
+		},
+		{
+			"offsets": [
+				-161,
+				278
+			],
+			"loop": true,
+			"fps": -2147483648,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Squidward Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidward",
+	"position": [
+		30,
+		320
+	],
+	"healthicon": "icon-squadfartpoo",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		189,
+		129
+	],
+	"camera_position": [
+		30,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
