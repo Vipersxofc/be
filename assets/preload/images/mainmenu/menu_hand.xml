@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_hand.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hand — wystąpienie 10000" x="0" y="0" width="151" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10001" x="0" y="0" width="151" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10002" x="151" y="0" width="152" height="79" frameX="-33" frameY="-20" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10003" x="151" y="0" width="152" height="79" frameX="-33" frameY="-20" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10004" x="303" y="0" width="154" height="84" frameX="-1" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10005" x="303" y="0" width="154" height="84" frameX="-1" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10006" x="0" y="84" width="153" height="81" frameX="0" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10007" x="0" y="84" width="153" height="81" frameX="0" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10008" x="153" y="84" width="152" height="80" frameX="-1" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10009" x="153" y="84" width="152" height="80" frameX="-1" frameY="0" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10010" x="305" y="84" width="129" height="96" frameX="-27" frameY="-2" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10011" x="0" y="180" width="152" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10012" x="0" y="180" width="152" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10013" x="0" y="0" width="151" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+	<SubTexture name="hand — wystąpienie 10014" x="0" y="0" width="151" height="79" frameX="-38" frameY="-19" frameWidth="190" frameHeight="99"/>
+</TextureAtlas>
